@@ -1,0 +1,14 @@
+# Pages dropped in the WordPress move
+/azada-de-precision-treffler      /azada-de-precision-treffler-2/  301
+/azada-de-precision-treffler/     /azada-de-precision-treffler-2/  301
+/pt/home-portugues                /  301
+/pt/home-portugues/               /  301
+/pt/*                             /  301
+/sample-page/                     /  301
+/hello-world-2/                   /  301
+/gradatreffler/                   /grada-de-puas-flexibles-treffler/  301
+/feed/                            /  301
+/feed                             /  301
+/wp-admin/*                       /  301
+/wp-login.php                     /  301
+/wp-content/uploads/*             /img/:splat  301
